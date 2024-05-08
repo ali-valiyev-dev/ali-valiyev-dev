@@ -4,17 +4,15 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h2 align="center">Hi 👋, I'm Ali</h2>
 
 ###
-
-<br clear="both">
 
 <h2 align="left">I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences.</h2>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🌏 Let's Connect</h3>
 
@@ -30,6 +28,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🪄 Tech stack</h3>
 
