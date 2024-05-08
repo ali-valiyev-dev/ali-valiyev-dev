@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-
-###
-
 <br clear="both">
 
 <img align="right" height="260" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
+
+<br clear="both">
+
+<h1 align="center">Hi 👋, I'm Ali</h1>
+
+###
+
+<br clear="both">
 
 <h2 align="left">I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences.</h2>
 
