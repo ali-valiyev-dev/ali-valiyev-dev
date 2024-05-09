@@ -4,19 +4,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-###
-
-<h2 align="left">I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences.</h2>
-
-###
-
-<br clear="both">
-
-<h3 align="left">🌏 Let's Connect</h3>
+<h2 align="left">I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences. <br><br>So let us connect and leverage my creativity, technical skills, and user-centric approach to design and develop engaging websites and applications that resonate with users and drive positive outcomes for businesses.😎</h2>
 
 ###
 
@@ -28,6 +16,12 @@
     <img src="https://img.shields.io/static/v1?message=Protfolio%20website&logo=codesandbox&label=&color=7B67C7&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
@@ -65,8 +59,6 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
 </div>
 
 ###
