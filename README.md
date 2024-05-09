@@ -2,13 +2,13 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="300" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-<img align="right" height="300"  width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
 
 ###
 
-<h2 align="left">I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences. <br><br>So let us connect and leverage my creativity, technical skills, and user-centric approach to design and develop engaging websites and applications that resonate with users and drive positive outcomes for businesses.😎</h2>
+<h2 align="left" >I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences. <br><br>So let us connect and leverage my creativity, technical skills, and user-centric approach to design and develop engaging websites and applications that resonate with users and drive positive outcomes for businesses.😎</h2>
 
 ###
 
