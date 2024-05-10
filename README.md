@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left" >I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences. <br><br>So let us connect and leverage my creativity, technical skills, and user-centric approach to design and develop engaging websites and applications that resonate with users and drive positive outcomes for businesses.😎</h2>
+<h2 align="left" >I am a self-taught front-end developer, passionate about cultivating meaningful connections between businesses and their customers by transforming ideas into digital experiences. <br><br>So let us connect and leverage my creativity, technical skills, and user-centric approach to design and develop engaging websites and applications that resonate with users and drive positive outcomes for your business.😎</h2>
 
 ###
 
