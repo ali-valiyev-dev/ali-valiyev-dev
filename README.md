@@ -14,12 +14,15 @@
 - 🇱🇹 &nbsp;Open to opportunities in **Lithuania**
 - 📬 &nbsp;**ali.valiyev.dev@gmail.com**
 
-<br clear="both">
-
-<br>
+<br clear="right">
 
 ---
 
-<br>
+[![Skills](https://skillicons.dev/icons?i=js,ts,vue,react,redux,pinia,tailwind,sass,vuetify,supabase)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,vue,react,redux,tailwind,sass,supabase,git,figma)](https://skillicons.dev)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
